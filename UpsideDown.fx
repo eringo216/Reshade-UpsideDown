@@ -1,4 +1,3 @@
-
 #include "ReShade.fxh"
 
 float4 main(float2 texcoord : TEXCOORD) : COLOR
